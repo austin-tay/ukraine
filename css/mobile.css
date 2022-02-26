@@ -19,5 +19,16 @@
 
 #meetus{
     display: block;
+}
 
+.countdown-container .timer-container {
+  display: flex;
+  flex-direction: row;
+    
+  
+}
+
+.countdown-container .day-count {
+  margin-bottom: 1rem;
+  color: burlywood;
 }
